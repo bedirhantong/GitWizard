@@ -40,6 +40,7 @@ I want you to be an active participant in this project by sharing your feedback,
     * [Remove](#remove)
     * [ignore](#ignore)
 * [Useful Links](#links)
+* [Useful Documents](#documents)
     
 
 ---
@@ -313,7 +314,7 @@ git checkout -b <new name> <another branch>
 
 
 
-### Links
+## Links
 
 - The entire Pro Git book, written by Scott Chacon and Ben Straub. Use [me](https://git-scm.com/book/en/v2)
 
@@ -321,4 +322,15 @@ git checkout -b <new name> <another branch>
 
 - Learning git with visualization? Use [me](https://learngitbranching.js.org/)
 
+
+## Documents
+
+
+- From Github Docs. Use [me](https://docs.github.com/en)
+
+- Quick reference guides. Use [me](https://devdocs.io/git/)
+
+- GitHub Training Kit and cheatsheet. Use [me](https://training.github.com/)
+
+- Visual cheatsheet. Use [me](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 
