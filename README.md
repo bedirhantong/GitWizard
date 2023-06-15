@@ -142,11 +142,19 @@ git config --global core.editor "vim"
 
 ### **Add new changes**
 - To add all the files in the current directory, use "git add ."
-- To add a directory use "git add <directory>"
+
 
 ````
-git add
+git add .
 ````
+- To add a directory 
+````
+git add <directory>
+````
+
+
+
+
 ---
 
 
