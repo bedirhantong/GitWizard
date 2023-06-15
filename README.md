@@ -236,7 +236,10 @@ git checkout -b <new name>
 git checkout -b <new name> <another branch>
 ````
 
-
+- change branch
+````
+git switch <to branch name>
+````
 
 ---
 
