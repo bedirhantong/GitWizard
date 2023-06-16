@@ -262,6 +262,37 @@ git checkout <branch name> <path to file> --patch
 ----
 
 
+
+### **Stash**
+- To stash with a unique id
+
+````
+git stash
+````
+
+- to list your stashes
+
+````
+git stash list
+````
+
+
+- apply a stash and remove from list
+
+````
+git stash pop <stash id>
+````
+
+- apply a stash and not remove from list
+
+````
+git stash apply <stash id>
+````
+
+----
+
+
+
 ### **View** 
 - commit history
 ````
