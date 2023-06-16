@@ -36,9 +36,12 @@ I want you to be an active participant in this project by sharing your feedback,
     * [Branch](#merge)
     * [Merge](#merge)
     * [Commit](#commit)
+    * [Stash](#stash)
     * [View](#view)
     * [Remove](#remove)
-    * [ignore](#ignore)
+    * [Ignore](#ignore)
+    * [Push](#push)
+    
 * [Useful Links](#links)
 * [Useful Documents](#documents)
     
@@ -337,6 +340,34 @@ git checkout -b <new name> <another branch>
 ````
 
 ---
+
+### **Push**
+- Before pushin be sure that you have defined your origin! 
+- Pushing the master branch
+````
+git push -u origin master
+
+or
+
+git push
+
+````
+- Pushing the any branch 
+
+````
+git push -u origin <branch name>
+
+or
+
+git push
+````
+
+git push origin master
+
+----
+
+
+
 
 
 ### **Ignore**
